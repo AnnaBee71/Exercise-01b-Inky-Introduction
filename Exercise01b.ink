@@ -14,4 +14,19 @@ This exercise will demonstrate the following in the example video:
  - Add at least one more conditional
 */
 
-This is our basic story example! Goodbye!
+Amusement Park Game
+
+
+You enter the amusement park. The atmosphere is loud and full of activity.
++ [take the north path: park rides] You go on a roller coaster you feel dizzy afterwards (-1hp).
++ [take the south path: parking lot] Many people are entering and leaving the amusement park.
++ [take the east path: food court] You buy a hotdog, it was good (+3hp).
++ [ take the west path: miror maze] You keep running into mirrors (-1hp) but you eventually get out the maze and win a prize.
+    
+
+
+
+
+
+
+
